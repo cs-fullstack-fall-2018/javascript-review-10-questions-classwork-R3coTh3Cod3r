@@ -14,6 +14,7 @@ An alert box that displays 'Undefined'
 
 An alert box that displays 'The answer to the ultimate question: {theAnswer}'
 
+/The first one/
 
 <hr/>
 
@@ -46,6 +47,7 @@ An alert box saying "Just go and Get a Job!"
 
 No alert dialog box but an error instead
 
+/The second answer/ 
 <hr/>
 
 ### Try/Catch/Throw
@@ -107,7 +109,7 @@ Error: Something went wrong
 Error: Error: Something went wrong
 The outer finally block  
 Glad to be done!
-
+/The second answer/--->
 
 Starting the process...  
 Error: Something went wrong
@@ -162,7 +164,7 @@ An HTML page contains the following:
 The type is: undefined
 The type is: undefined
 The type is: undefined
-
+/the first answer/ -->
 The type is: string with value 'test'  
 The type is: number with value 5  
 The type is: date with value 8/11/2017  
@@ -213,11 +215,11 @@ Intro to JavaScript
 
 null
 
-undefined
+undefined 
 
 Nothing because an error will display in the console
 
-
+/it will display null/
 <hr/>
 
 ### HTML5 Form Elements how fields are submitted
@@ -249,7 +251,7 @@ http://localhost:35132/Account/FormTest
 
 http://localhost:35132/Account/FormTest?firstName=John&lastName=Doe
 
-http://localhost:35132/Account/FormTest?first=John&last=Doe
+http://localhost:35132/Account/FormTest?first=John&last=Doe-----> /this one/
 
 http://localhost:35132/Account/FormTest/GET/#first=John?last=Doe
 
@@ -303,7 +305,7 @@ You load the following page:
 
 F1F2F3F4F5F2F3F4F5F5F3F4F5
 
-F1F2F3F5F2F3F5F5F3F5
+F1F2F3F5F2F3F5F5F3F5 ---> /this is the answer/
 
 F1F2F3F5
 
@@ -345,7 +347,7 @@ An error message
 
 A list of random letters between A and F
 
-A list of empty spaces
+A list of empty spaces----> /this is the answer/
 
 A list of random letters
 
@@ -387,6 +389,6 @@ You load the following page in the browser:
 
 369
 
-111
+111---> /this is the answer/
 
 123
